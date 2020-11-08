@@ -719,6 +719,35 @@ section.lazy-placeholder:after {
 .cid-rOnC2WRClS H3 {
   color: #fcea04;
 }
+.cid-sfIyAybN3O {
+  background: #073b4c;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #073b4c, #149dcc);
+}
+.cid-sfIyAybN3O .image-block {
+  margin: auto;
+}
+.cid-sfIyAybN3O .mbr-figure {
+  margin: 0 auto;
+}
+.cid-sfIyAybN3O figcaption {
+  position: relative;
+}
+.cid-sfIyAybN3O figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sfIyAybN3O .image-block {
+    width: 100% !important;
+  }
+}
+.cid-sfIyAybN3O .mbr-figure-caption div {
+  color: #7f1933;
+  text-align: center;
+}
 .cid-rOnIbNj4tb {
   background: #f9f295;
   padding-top: 0px;
